@@ -1,2 +1,2 @@
 # vk_demo
-It is a demo file in github.
+It is a demo for  git and github class.
